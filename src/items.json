@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Iron Sword",
+    "weight": 2.5,
+    "description": "A sturdy sword forged from iron.",
+    "type": "WEAPON",
+    "basePrice": 10,
+    "attributes": {
+      "phisicalAttack": 10,
+      "critical": 3,
+      "healPoints": 5
+    }
+  },
+  {
+    "id": 2,
+    "name": "Iron Helmet",
+    "weight": 2.5,
+    "description": "An iron helmets with a crest of a lion's head.",
+    "type": "HEAD",
+    "basePrice": 10,
+    "attributes": {
+      "phisicalDefence": 10,
+      "healPoints": 5
+    }
+  },
+  {
+    "id": 3,
+    "name": "Wooden Helmet",
+    "weight": 2.5,
+    "description": "A wooden helmet adorned with intricate carvings.",
+    "type": "HEAD",
+    "basePrice": 6,
+    "attributes": {
+      "phisicalDefence": 6,
+      "healPoints": 6
+    }
+  },
+  {
+    "id": 4,
+    "name": "Novice Dagger",
+    "weight": 2.5,
+    "description": "A small dagger suitable for an inexperienced adventurer.",
+    "type": "WEAPON",
+    "basePrice": 3,
+    "attributes": {
+      "phisicalAttack": 4,
+      "critical": 6,
+      "attackSpeed": 10
+    }
+  }
+]
